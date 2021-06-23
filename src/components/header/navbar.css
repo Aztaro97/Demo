@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+    background: #FAFDFF;
+}
+.nav__left .logo {
+    
+}
+.nav__left button {
+    background: #178344;
+    color: #fff;
+}
+.navbar_right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar_right a {
+    margin: 0 10px;
+}
+.navbar_icon {
+    width: 20px;
+}
+.navbar_user {
+    border-radius: 50%;
+}

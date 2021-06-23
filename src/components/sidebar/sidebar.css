@@ -1,0 +1,16 @@
+.sidebar {
+    width: 6%;
+    height: 100%;
+    background: #F4FAFF;
+    }
+
+.sidebar__menu {
+    padding: 10px 0;
+    height: 100%;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    /* justify-items: center; */
+}

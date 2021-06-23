@@ -1,0 +1,87 @@
+.appointment {
+    background: #F4FAFF;
+    margin-top: 10px;
+}
+
+.appointment__header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.appointment__btn .btn {
+    border-radius: 50px;
+    padding: 5px 20px;
+    margin-right:20px;
+}
+
+.appointment__btn .btn1 {
+    background: #7851E9;
+    color: #fff;
+}
+.appointment__btn .btn2 {
+    background: #DEE2FF;
+    color: #967FF3;
+}
+
+
+
+
+
+/*  CARD */
+.appoitment_card {
+    margin: 20px;
+    padding: 40px 2px;
+}
+.appoitment_card p {
+    font-weight: 500;
+}
+.card__btn {
+    display: flex;
+    justify-content: center;
+}
+.card__btn .btn {
+    border-radius: 50px;
+    padding: 5px 20px;
+    margin-right: 5px;
+    font-weight: 600;
+}
+.card__btn .btn1 {
+    background: #DEE2FF;
+    color: #653BEB;
+}
+.card__btn .icon {
+    border-radius: 10px;
+    padding: 1px;
+    background: #fff;
+    margin-right: 5px;
+    /* color: #000; */
+}
+.card__btn .btn2 {
+    background: #DEE2FF;
+    color: #EA2F2F;
+}
+.card_img {
+    border-radius: 50%;
+}
+
+.card__adress {
+    display: flex;
+    font-size: 14px;
+
+}
+
+.card__date , .card__date p {
+    display: flex;
+    justify-content: space-between;
+    font-size: 3px;
+}
+
+
+.formButton {
+    text-align: center;
+}
+.formButton button {
+    border-radius: 50%;
+    padding: 4px;
+    background: #fff;
+}
